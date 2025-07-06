@@ -11,6 +11,7 @@
 
 ## 🚀 Live Demo
 
+![alt text](ss.png)
 🔗 [Click to Try Visionary.AI](#)
 🎥 [Watch Demo Video](#)
 
